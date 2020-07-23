@@ -22,3 +22,5 @@ svn checkout https://github.com/coolsnowwolf/lede/trunk/package/lean/tcpping    
 svn checkout https://github.com/coolsnowwolf/lede/trunk/package/lean/microsocks                          package/microsocks
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git                             package/luci-theme-infinityfreedom
 git clone https://github.com/yangsongli/luci-theme-atmaterial.git                                        package/luci-theme-atmaterial                          
+git clone https://github.com/kenzok8/openwrt-packages.git                                                package/
+git clone https://github.com/kenzok8/small.git                                                           package/

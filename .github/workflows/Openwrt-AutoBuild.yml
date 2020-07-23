@@ -25,7 +25,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [armvirt_64]
+        target: [N1_armvirt_64]
     
     steps:
     - name: Checkout
